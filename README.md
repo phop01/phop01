@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Paphop Surathip
+<img src="Image/giphy (1).gif" width="150">
+
+Hi  My name is Paphop Surathip
 ========================================================================================================================================
 
 Student
--------
+----
 I’m not a robot. I’m powered by strawberry milk 🥛🍓
 
 ### About Me
@@ -10,11 +12,7 @@ I’m not a robot. I’m powered by strawberry milk 🥛🍓
 
 I’m a university student who enjoys building real projects to improve my skills in web and mobile development.
 
-I’ve built projects using Next.js (API integration + Docker), developed mobile apps with Flutter, and created a 2D game project with Unity (C#).
-
-Right now, I’m focusing on improving UI design, working with APIs, and writing cleaner, more organized code.
-
-I’m always open to learning from feedback and building better projects step by step.
+---
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://phop01.github.io/)
