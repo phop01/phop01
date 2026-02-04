@@ -5,7 +5,7 @@ Student
 -------
 I’m not a robot. I’m powered by strawberry milk 🥛🍓
 
-### About
+### About Me
 -----
 
 I’m a university student who enjoys building real projects to improve my skills in web and mobile development.
