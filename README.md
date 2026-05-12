@@ -1,151 +1,159 @@
-<!-- ===== HEADER WITH ANIMATED BANNER ===== -->
+<!-- ===== HEADER ===== -->
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Paphop%20Surathip&fontSize=70&fontAlignY=35&desc=Computer%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn&fontColor=ffffff" />
 
-<!-- ===== TYPING ANIMATION ===== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,12,16,24&height=300&section=header&text=PAPHOP&fontSize=90&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Thailand&descAlignY=58&descSize=20&fontColor=B47AFF&animation=twinkling" />
+
 <a href="https://github.com/phop01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Thailand+%F0%9F%87%B9%F0%9F%87%AD;Building+Real+Projects+%F0%9F%9A%80;Web+%26+Mobile+Development+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=B47AFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Building+Digital+Experiences;%E2%9A%A1+Web+%26+Mobile+Developer;%F0%9F%9A%80+Computer+Science+Student;%F0%9F%8C%8C+Exploring+the+Code+Universe" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- ===== STATS BADGES ===== -->
-<img src="https://komarev.com/ghpvc/?username=phop01&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/phop01?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/phop01?label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=8B5CF6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
+<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
 
 </div>
 
 <br/>
 
-<!-- ===== ABOUT ME SECTION ===== -->
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<!-- ===== ABOUT ===== -->
+<div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### ◇ ABOUT ME ◇
+
+</div>
 
 ```typescript
-const paphop: Developer = {
-  name:       "Paphop Surathip",
-  role:       "Full-Stack Developer",
-  education:  "Computer Science Student",
-  location:   "Thailand 🇹🇭",
+const paphop = {
+  name:      "Paphop Surathip",
+  role:      "Full-Stack Developer",
+  location:  "Thailand 🇹🇭",
+  education: "Computer Science",
   
-  currentlyLearning: ["Next.js", "Docker", "System Design"],
+  stack:     ["React", "Next.js", "TypeScript", "Node.js"],
+  learning:  ["System Design", "Cloud Architecture"],
   
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend:  ["Node.js", "Python", "C#"],
-    tools:    ["Git", "Docker", "VS Code"]
-  },
-
-  motto: "Code. Learn. Repeat."
+  motto:     "Code with purpose, build with passion."
 };
 ```
 
-<br clear="right"/>
+<br/>
 
-<!-- ===== CONNECT WITH ME ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect With Me
+<!-- ===== CONNECT ===== -->
+<div align="center">
 
-<p align="left">
-  <a href="http://phop01.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=00D9FF" />
-  </a>
-  <a href="mailto:psurathip@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.github.com/phop01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@pasilrof">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+### ◇ CONNECT ◇
+
+<a href="http://phop01.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=githubpages&logoColor=B47AFF" />
+</a>
+<a href="mailto:psurathip@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=B47AFF" />
+</a>
+<a href="https://www.github.com/phop01">
+  <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=B47AFF" />
+</a>
+<a href="https://www.youtube.com/@pasilrof">
+  <img src="https://img.shields.io/badge/YOUTUBE-0D0D0D?style=for-the-badge&logo=youtube&logoColor=B47AFF" />
+</a>
+
+</div>
 
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Arsenal
-
 <div align="center">
 
-### 💻 Languages
+### ◇ TECH STACK ◇
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4" />
 </p>
 
-### 🚀 Frameworks & Libraries
+#### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,cs,c&perline=4" />
 </p>
 
-### 🛠️ Tools & Platforms
+</td>
+<td valign="top" width="50%">
+
+#### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4" />
 </p>
 
-### 🗄️ Databases
+#### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=5" />
 </p>
 
-</div>
-
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=phop01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=phop01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phop01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phop01&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ===== TROPHY ===== -->
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LCm/giphy.gif" width="28"> Trophies
-
+<!-- ===== STATS ===== -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phop01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+
+### ◇ GITHUB UNIVERSE ◇
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phop01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7&ring_color=B47AFF" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phop01&hide_border=true&background=0D0D0D&stroke=8B5CF6&ring=B47AFF&fire=B47AFF&currStreakLabel=B47AFF&sideLabels=E4E4E7&dates=E4E4E7&currStreakNum=B47AFF&sideNums=B47AFF" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phop01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&text_color=E4E4E7&langs_count=8" />
+
 </div>
 
 <br/>
 
-<!-- ===== CONTRIBUTION GRAPH ===== -->
-## <img src="https://media.giphy.com/media/W5fMHXmEUUFy4iAjEy/giphy.gif" width="28"> Contribution Graph
-
+<!-- ===== ACTIVITY GRAPH ===== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phop01&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" />
+
+### ◇ ACTIVITY ORBIT ◇
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phop01&bg_color=0D0D0D&color=B47AFF&line=8B5CF6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
 </div>
 
 <br/>
 
-<!-- ===== SNAKE ANIMATION ===== -->
+<!-- ===== SNAKE ===== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+### ◇ CONTRIBUTION SNAKE ◇
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <br/>
 
-<!-- ===== QUOTE ===== -->
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> Dev Quote
-
+<!-- ===== TROPHIES ===== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### ◇ TROPHIES ◇
+
+<img src="https://github-profile-trophy.vercel.app/?username=phop01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 </div>
 
 <br/>
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,12,16,24&height=120&section=footer&text=Thanks%20for%20visiting%20✦&fontSize=22&fontColor=B47AFF&animation=twinkling" />
+
 </div>
