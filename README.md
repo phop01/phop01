@@ -17,26 +17,65 @@
 
 <br/>
 
-<!-- ===== ABOUT ===== -->
+<!-- ===== ABOUT (NEW STYLE WITH EFFECTS) ===== -->
 <div align="center">
 
 ### ◇ ABOUT ME ◇
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```typescript
-const paphop = {
-  name:      "Paphop Surathip",
-  role:      "Full-Stack Developer",
-  location:  "Thailand 🇹🇭",
-  education: "Computer Science",
-  
-  stack:     ["React", "Next.js", "TypeScript", "Node.js"],
-  learning:  ["System Design", "Cloud Architecture"],
-  
-  motto:     "Code with purpose, build with passion."
-};
+<br/>
+
+> ### `✦` Hello, World!
+> 
+> I'm **Paphop**, a passionate **Full-Stack Developer** from Thailand 🇹🇭 currently studying **Computer Science**.
+>
+> I love crafting beautiful, functional web & mobile experiences and turning ideas into reality through code.
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=B47AFF&width=400&lines=%E2%9C%A6+Currently+Learning%3A+System+Design;%E2%9A%A1+Stack%3A+React%2C+Next.js%2C+TypeScript;%F0%9F%94%A5+Goal%3A+Build+Something+Amazing;%F0%9F%92%9C+Motto%3A+Code+with+purpose" />
+
+<br/><br/>
+
+<picture>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>◇ Click to see more about me ◇</b></summary>
+
+<br/>
+
+```yaml
+name:       Paphop Surathip
+role:       Full-Stack Developer
+location:   Thailand 🇹🇭
+education:  Computer Science
+
+stack:
+  frontend: [React, Next.js, TypeScript]
+  backend:  [Node.js, Python, C#]
+  database: [MongoDB, MySQL, PostgreSQL]
+
+learning:   [System Design, Cloud Architecture]
+motto:      "Code with purpose, build with passion."
 ```
+
+</details>
+
+</div>
 
 <br/>
 
@@ -108,22 +147,7 @@ const paphop = {
 ### ◇ GITHUB UNIVERSE ◇
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=phop01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7&ring_color=B47AFF" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phop01&hide_border=true&background=0D0D0D&stroke=8B5CF6&ring=B47AFF&fire=B47AFF&currStreakLabel=B47AFF&sideLabels=E4E4E7&dates=E4E4E7&currStreakNum=B47AFF&sideNums=B47AFF" />
-
-<br/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phop01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&text_color=E4E4E7&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<div align="center">
-
-### ◇ ACTIVITY ORBIT ◇
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phop01&bg_color=0D0D0D&color=B47AFF&line=8B5CF6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -135,17 +159,6 @@ const paphop = {
 ### ◇ CONTRIBUTION SNAKE ◇
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br/>
-
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-
-### ◇ TROPHIES ◇
-
-<img src="https://github-profile-trophy.vercel.app/?username=phop01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
