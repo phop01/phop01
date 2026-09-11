@@ -1,122 +1,83 @@
-<!-- ===== HEADER ===== -->
+<!-- ============================================================
+     Kawaii party-cat theme  ·  artwork lives in /assets
+     edit & rebuild the SVGs with:  python tools/build_assets.py
+     ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,12,16,24&height=300&section=header&text=PAPHOP&fontSize=90&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Thailand&descAlignY=58&descSize=20&fontColor=B47AFF&animation=twinkling" />
+<img src="assets/header.svg" width="100%" alt="PAPHOP · Full-Stack Developer from Thailand" />
 
 <a href="https://github.com/phop01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=B47AFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Building+Digital+Experiences;%E2%9A%A1+Web+%26+Mobile+Developer;%F0%9F%9A%80+Computer+Science+Student;%F0%9F%8C%8C+Powered+by+Strawberry+Milk+%F0%9F%8D%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1100&color=A47CCB&center=true&vCenter=true&width=640&lines=Hi!+I'm+Paphop+~+nice+to+meet+you+%3A3;Web+%26+Mobile+Developer;I+make+cute+little+2D+games+with+C%23;Computer+Science+student+in+Thailand;Powered+by+strawberry+milk+%F0%9F%8D%93%F0%9F%A5%9B" alt="typing intro" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=8B5CF6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
-<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=CDB7E3&style=for-the-badge" alt="visitors" />
+<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=F4A3B6&labelColor=6B3F23" alt="followers" />
+<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=F5C46E&labelColor=6B3F23" alt="stars" />
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ===== ABOUT ME ===== -->
+<!-- ===================== ABOUT ===================== -->
 <div align="center">
-
-### ◇ ABOUT ME ◇
-
+  <img src="assets/title-about.svg" width="560" alt="About Me" />
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
-<br/>
+### 🐾 Hello, World!
 
-> ### `✦` Hello, World!
-> 
-> I'm **Paphop** — a passionate **Full-Stack Developer** from **Thailand** 🇹🇭 currently studying **Computer Science**.
->
-> 🎮 I love building **2D games** with C# and crafting modern **web apps** with TypeScript & React.
->
-> 🍓 *Not a robot. Powered by strawberry milk.*
+I'm **Paphop** — a **Full-Stack Developer** from **Thailand** 🇹🇭,
+currently studying **Computer Science**.
 
-<br/>
+- 🎮 &nbsp;I build **2D games** with **C#**
+- 🌸 &nbsp;I craft modern **web apps** with **TypeScript & React**
+- 📱 &nbsp;Web & mobile, front to back
+- 🌱 &nbsp;Always learning something new
+- 🍓 &nbsp;*Not a robot — just a human powered by strawberry milk*
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=B47AFF&center=true&width=380&lines=%E2%9C%A6+34+Public+Repositories;%E2%9A%A1+Stack%3A+C%23+%2B+TypeScript;%F0%9F%8E%AE+Game+Dev+Enthusiast;%F0%9F%8E%93+CS+Student+%40+Thailand;%F0%9F%8C%B1+Always+Learning" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="220" />
-
-</div>
+<img src="assets/about-cat.svg" width="300" alt="a cat sipping strawberry milk" />
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ===== CONNECT ===== -->
+<!-- ===================== TECH STACK ===================== -->
 <div align="center">
-
-### ◇ CONNECT WITH ME ◇
-
-<a href="http://phop01.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=githubpages&logoColor=B47AFF" />
-</a>
-<a href="mailto:psurathip@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=B47AFF" />
-</a>
-<a href="https://www.facebook.com/paphop57/">
-  <img src="https://img.shields.io/badge/FACEBOOK-0D0D0D?style=for-the-badge&logo=facebook&logoColor=B47AFF" />
-</a>
-<a href="https://www.instagram.com/p_ph_op/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&logo=instagram&logoColor=B47AFF" />
-</a>
-<a href="https://www.youtube.com/@pasilrof">
-  <img src="https://img.shields.io/badge/YOUTUBE-0D0D0D?style=for-the-badge&logo=youtube&logoColor=B47AFF" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===== TECH STACK ===== -->
-<div align="center">
-
-### ◇ TECH STACK ◇
+  <img src="assets/title-stack.svg" width="560" alt="Tech Stack" />
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-#### `<` Frontend `/>`
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4" />
-</p>
+**🌸 Frontend**
 
-#### `<` Backend `/>`
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,cs,c&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=light" alt="frontend" />
+
+**🍓 Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,c&perline=4&theme=light" alt="backend" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-#### `<` Database `/>`
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4" />
-</p>
+**⭐ Database**
 
-#### `<` Tools & DevOps `/>`
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4&theme=light" alt="database" />
+
+**🎀 Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&perline=3&theme=light" alt="tools" />
 
 </td>
 </tr>
@@ -124,74 +85,30 @@
 
 </div>
 
-<br/>
-
-<!-- ===== FEATURED PROJECTS ===== -->
+<!-- ===================== FUN FACTS ===================== -->
 <div align="center">
+  <img src="assets/title-facts.svg" width="560" alt="Fun Facts" />
+</div>
 
-### ◇ FEATURED PROJECTS ◇
+<table align="center">
+<tr>
+<td>
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/phop01/2d-game-project-complete">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phop01&repo=2d-game-project-complete&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/phop01/book-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phop01&repo=book-app&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/phop01/2Dgame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phop01&repo=2Dgame&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/phop01/Final-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phop01&repo=Final-Project&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7" />
-</a>
+- 🍓 &nbsp;Strawberry milk is my main fuel
+- 🎮 &nbsp;I started coding because I wanted to make my own games
+- 🐱 &nbsp;I believe every app is better with a cat in it
+- 🌙 &nbsp;My best ideas show up at 2 AM
+- 🐛 &nbsp;I name my bugs before I squash them
+
 </td>
 </tr>
 </table>
 
-</div>
-
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-### ◇ GITHUB UNIVERSE ◇
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phop01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&icon_color=8B5CF6&text_color=E4E4E7&ring_color=B47AFF&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phop01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B47AFF&text_color=E4E4E7&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- ===== SNAKE ===== -->
-<div align="center">
-
-### ◇ CONTRIBUTION SNAKE ◇
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,12,16,24&height=120&section=footer&text=Thanks%20for%20visiting%20✦&fontSize=22&fontColor=B47AFF&animation=twinkling" />
-
-<br/>
-
-`✦ Powered by Strawberry Milk 🍓🥛 ✦`
+<sub>🍓 made with love, cats & strawberry milk 🥛</sub>
 
 </div>
