@@ -11,12 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=24&pause=1100&color=C9CEDC&center=true&vCenter=true&width=640&lines=I'm+Paphop+%E2%80%94+I+code+in+the+dark;Web+%26+Mobile+Developer;Computer+Science+student+in+Thailand;Powered+by+black+coffee+%26+late+nights+%E2%98%95" alt="typing intro" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=403E4B&style=for-the-badge" alt="visitors" />
-<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=403E4B&labelColor=0F141D" alt="followers" />
-<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=403E4B&labelColor=0F141D" alt="stars" />
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
