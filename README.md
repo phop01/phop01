@@ -8,7 +8,7 @@
 <img src="assets/header.svg" width="100%" alt="PAPHOP · Full-Stack Developer from Thailand" />
 
 <a href="https://github.com/phop01">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=24&pause=1100&color=C9CEDC&center=true&vCenter=true&width=640&lines=I'm+Paphop+%E2%80%94+I+code+in+the+dark;Web+%26+Mobile+Developer;I+build+2D+games+with+C%23;Computer+Science+student+in+Thailand;Powered+by+black+coffee+%26+late+nights+%E2%98%95" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=24&pause=1100&color=C9CEDC&center=true&vCenter=true&width=640&lines=I'm+Paphop+%E2%80%94+I+code+in+the+dark;Web+%26+Mobile+Developer;Computer+Science+student+in+Thailand;Powered+by+black+coffee+%26+late+nights+%E2%98%95" alt="typing intro" />
 </a>
 
 <br/>
@@ -101,7 +101,6 @@ I'm **Paphop** — a **Full-Stack Developer** from **Thailand** 🇹🇭
 <td>
 
 - ☕ &nbsp;Black coffee is my main fuel
-- 🎮 &nbsp;I started coding because I wanted to make my own games
 - 🌙 &nbsp;My best code ships after midnight
 - 🦇 &nbsp;Dark mode, always — the light hurts my eyes
 - 🐛 &nbsp;I hunt bugs in the dark
