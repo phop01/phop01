@@ -1,5 +1,5 @@
 <!-- ============================================================
-     Kawaii party-cat theme  ·  artwork lives in /assets
+     Dark-knight theme  ·  cinematic stormy night  ·  artwork lives in /assets
      edit & rebuild the SVGs with:  python tools/build_assets.py
      ============================================================ -->
 
@@ -8,14 +8,14 @@
 <img src="assets/header.svg" width="100%" alt="PAPHOP · Full-Stack Developer from Thailand" />
 
 <a href="https://github.com/phop01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1100&color=A47CCB&center=true&vCenter=true&width=640&lines=Hi!+I'm+Paphop+~+nice+to+meet+you+%3A3;Web+%26+Mobile+Developer;I+make+cute+little+2D+games+with+C%23;Computer+Science+student+in+Thailand;Powered+by+strawberry+milk+%F0%9F%8D%93%F0%9F%A5%9B" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=24&pause=1100&color=C9CEDC&center=true&vCenter=true&width=640&lines=I'm+Paphop+%E2%80%94+I+code+in+the+dark;Web+%26+Mobile+Developer;I+build+2D+games+with+C%23;Computer+Science+student+in+Thailand;Powered+by+black+coffee+%26+late+nights+%E2%98%95" alt="typing intro" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=CDB7E3&style=for-the-badge" alt="visitors" />
-<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=F4A3B6&labelColor=6B3F23" alt="followers" />
-<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=F5C46E&labelColor=6B3F23" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=phop01&label=VISITORS&color=403E4B&style=for-the-badge" alt="visitors" />
+<img src="https://img.shields.io/github/followers/phop01?label=FOLLOWERS&style=for-the-badge&color=403E4B&labelColor=0F141D" alt="followers" />
+<img src="https://img.shields.io/github/stars/phop01?label=STARS&style=for-the-badge&color=403E4B&labelColor=0F141D" alt="stars" />
 
 </div>
 
@@ -28,23 +28,29 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-### 🐾 Hello, World!
-
-I'm **Paphop** — a **Full-Stack Developer** from **Thailand** 🇹🇭,
-currently studying **Computer Science**.
-
-- 🎮 &nbsp;I build **2D games** with **C#**
-- 🌸 &nbsp;I craft modern **web apps** with **TypeScript & React**
-- 📱 &nbsp;Web & mobile, front to back
-- 🌱 &nbsp;Always learning something new
-- 🍓 &nbsp;*Not a robot — just a human powered by strawberry milk*
+<img src="assets/about.svg" width="300" alt="profile portrait on a stormy night" />
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="58%" valign="middle">
 
-<img src="assets/about-cat.svg" width="300" alt="a cat sipping strawberry milk" />
+<!-- ✏️ Edit your info below. Hidden lines at the bottom: move one above this note's end marker to show it. -->
+
+### 🦇 Hello, World!
+
+I'm **Paphop** — a **Full-Stack Developer** from **Thailand** 🇹🇭
+
+- 👤 &nbsp;**Name:** Paphop Surathip
+- 🎓 &nbsp;**Education:** Computer Science student
+- 📍 &nbsp;**Location:** Thailand
+- 💼 &nbsp;**Role:** Full-Stack Developer
+- 🗣️ &nbsp;**Languages:** Thai · English
+- ☕ &nbsp;**Fuel:** Black coffee & late nights
+<!-- hidden — copy a line above (without this comment) and fill it in:
+- 🔭 &nbsp;**Working on:** ...
+- 🏫 &nbsp;**University:** ...
+-->
 
 </td>
 </tr>
@@ -60,24 +66,24 @@ currently studying **Computer Science**.
 <tr>
 <td align="center" width="50%">
 
-**🌸 Frontend**
+**🦇 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=light" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=dark" alt="frontend" />
 
-**🍓 Backend**
+**⚡ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,cs,c&perline=4&theme=light" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,c&perline=4&theme=dark" alt="backend" />
 
 </td>
 <td align="center" width="50%">
 
-**⭐ Database**
+**🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4&theme=light" alt="database" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4&theme=dark" alt="database" />
 
-**🎀 Tools & DevOps**
+**🛠️ Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&perline=3&theme=light" alt="tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&perline=3&theme=dark" alt="tools" />
 
 </td>
 </tr>
@@ -94,11 +100,11 @@ currently studying **Computer Science**.
 <tr>
 <td>
 
-- 🍓 &nbsp;Strawberry milk is my main fuel
+- ☕ &nbsp;Black coffee is my main fuel
 - 🎮 &nbsp;I started coding because I wanted to make my own games
-- 🐱 &nbsp;I believe every app is better with a cat in it
-- 🌙 &nbsp;My best ideas show up at 2 AM
-- 🐛 &nbsp;I name my bugs before I squash them
+- 🌙 &nbsp;My best code ships after midnight
+- 🦇 &nbsp;Dark mode, always — the light hurts my eyes
+- 🐛 &nbsp;I hunt bugs in the dark
 
 </td>
 </tr>
@@ -109,6 +115,6 @@ currently studying **Computer Science**.
 
 <img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
 
-<sub>🍓 made with love, cats & strawberry milk 🥛</sub>
+<sub>🦇 forged in the dark with code & black coffee ☕</sub>
 
 </div>
